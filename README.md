@@ -104,23 +104,24 @@ These features significantly improved duplicate detection performance.
 
 ### Architecture Diagram
 
-![Architecture](images/architecture.png)
+![Architecture](image/Proposed%20simplified%20CNN+LSTM+Metadata%20model%20architecture%20(M6).png)
+
+![Architecture](image/Proposed%20simplified%20CNN+LSTM+Metadata%20model(M6).png)
+
+
 
 ### Model Performance Comparison
 
-![Performance](images/performance_comparison.png)
+![Performance](image/graph1_metrics%20(4)%20(1).svg)
 
 ### SHAP Feature Importance
 
-![SHAP Analysis](images/shap_analysis.png)
+![SHAP Analysis](image/SHAP.png)
 
-> Add your screenshots/figures inside the `images/` folder.
+### Computational Efficiency
 
----
+![Validation F1-score progression across training epochs, demonstrating LSTM's stable convergence compared to the hybrid model's instability](image/EPOCH.png)
 
-## 🚀 Google Colab Notebook
-
-Run the project directly on Google Colab:
 
 🔗 **Colab Notebook:**
 
@@ -128,44 +129,9 @@ Run the project directly on Google Colab:
 
 ---
 
-## 📂 Project Structure
-
-```text
-├── dataset/
-├── notebooks/
-├── models/
-├── images/
-├── src/
-├── README.md
-└── requirements.txt
-```
-
----
-
-## ▶️ How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run Training
-
-```bash
-python train.py
-```
-
----
 
 ## 📑 Research Paper
+
 
 If you use this work, please cite:
 
@@ -211,7 +177,3 @@ This project aims to:
 * Demonstrate the value of semantic metadata in software engineering research
 
 ---
-
-## 📜 License
-
-This project is intended for academic and research purposes.
