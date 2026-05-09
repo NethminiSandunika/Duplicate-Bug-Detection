@@ -125,10 +125,14 @@ These features significantly improved duplicate detection performance.
 
 🔗 **Colab Notebook:**
 
-[Add Your Google Colab Link Here](https://colab.research.google.com/)
+[[Google Colab Link Here](https://colab.research.google.com/drive/1XWkq9G4Vf_Vh_RRf7bj6xLVOfYxiCA5A#scrollTo=8WeDkOFcNqQ1)](https://colab.research.google.com/)
 
 ---
+## 🌐 IEEE Publication
 
+🔗 **IEEE Publication Link:**
+
+[[IEEE Publication Link Here](https://ieeexplore.ieee.org/document/11499933)]
 
 ## 📑 Research Paper
 
